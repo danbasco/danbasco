@@ -11,7 +11,11 @@
 
 ##
 
-![Daniel Vasconcelos stats](https://github-readme-stats.vercel.app/api?username=danbasco&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/danbasco">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danbasco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" length='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbasco&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
 ##
 
