@@ -4,7 +4,7 @@
 
 
 
-- 👝 Working only with back-end
+- 👝 Working with back-end
 - 🈺 Main language: Python
 - 🈺 Second language: C
 - ⌚ Studying Computer Engineering
