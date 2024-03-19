@@ -5,8 +5,8 @@
 
 
 - 👝 Working with back-end
-- 🈺 Main language: C/C++
-- 🈺 Second language: Python
+- 🈺 Main language: Python
+- 🈺 Second language: Java/C/C++
 - ⌚ Studying Computer Engineering
 
 ##
@@ -23,6 +23,7 @@
 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
