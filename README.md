@@ -30,7 +30,7 @@
 
 ##
 
-<a href="https://discord.gg/9w2ba2UgFj" target ="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target ="_blank"></a>
+
 <a href="https://www.instagram.com/danvasconceloss/" target ="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target ="_blank"></a>
 <a href="https://twitter.com/danbascou" target ="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target ="_blank"></a>
